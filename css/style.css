@@ -135,7 +135,7 @@ footer {
     font-size: 0.8em;
     color: #FFF;
     text-align: center; 
-    position: relative;
+    position: fixed;
     z-index: 3;
 }
 
