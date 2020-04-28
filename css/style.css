@@ -134,7 +134,9 @@ footer {
     list-style: none;
     font-size: 0.8em;
     color: #FFF;
-    text-align: center;    
+    text-align: center; 
+    position: relative;
+    z-index: 3;
 }
 
 /***********************************************************************
