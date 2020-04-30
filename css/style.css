@@ -54,7 +54,7 @@ body {
     border-color: rgba(235,233,233,0.95);*/
 }
 
-@media only screen and (max-width: 300px) {
+@media only screen and (max-width: 200px) {
     .main-nav {
         font-size: 0.5em;
         padding: 0;
@@ -93,7 +93,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: red;
     border-color: black;
     padding-top: 0px;
     position: relative;
