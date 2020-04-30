@@ -79,7 +79,7 @@ a:hover {
     /*justify-content: center;*/
     /*background-color: blue;*/
     /*testing fixed image*/
-    background: url("../img/cover2.jpg") no-repeat center fixed;
+    /*background: url("../img/cover2.jpg") no-repeat center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
