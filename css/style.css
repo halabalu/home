@@ -7,7 +7,7 @@ body {
     /*padding:30px 50px;*/
     /*cursor:pointer;*/
     color:#FFF;
-    font-size:1.5em;
+    font-size:1.6em;
     border-radius:0px;
     border:1px solid #bbb;
     transition: all 0.3s linear;
@@ -101,7 +101,7 @@ a:hover {
 }
 
 .cover {
-    width: 100%; 
+    width: 99%; 
     height: 35%;  
     background-color: black;
     position: fixed;
