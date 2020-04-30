@@ -93,7 +93,7 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: red;
     border-color: black;
     padding-top: 0px;
     position: relative;
@@ -103,7 +103,7 @@ a:hover {
 .cover {
     width: 80%; 
     height: 35%;  
-    background-color: black;
+    /*background-color: black;*/
     position: fixed;
     z-index: 1;
 
