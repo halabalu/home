@@ -103,6 +103,7 @@ a:hover {
 .cover {
     width: 80%; 
     height: 35%;  
+    justify-content: center;
     /*background-color: black;*/
     position: fixed;
     z-index: 1;
