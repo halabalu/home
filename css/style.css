@@ -54,7 +54,7 @@ body {
     border-color: rgba(235,233,233,0.95);*/
 }
 
-@media only screen and (max-width: 200px) {
+@media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.5em;
         padding: 0;
@@ -106,7 +106,7 @@ a:hover {
     justify-content: center;
     /*background-color: black;*/
     position: fixed;
-    z-index: 1;
+    z-index: 2;
 
 }
 
