@@ -49,6 +49,11 @@ p {
     border-color: rgba(0,0,0,0.8);
 }
 
+.grey2 {
+    background-color: rgba(0,0,0,1);
+    border-color: rgba(0,0,0,1);
+}
+
 @media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.6em;
@@ -101,7 +106,7 @@ a:hover {
 }
 
 .container2 {
-    height: 10vh;
+    height: 15vh;
     display: flex;
     /*align-items: center;*/
     /*justify-content: center;*/
@@ -141,7 +146,7 @@ a:hover {
 
 .cover3 {
     width: 100%; 
-    height: 10%;
+    height: 30%;
     justify-content: center;  
     background-color: black;
     position: fixed;
