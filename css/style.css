@@ -13,7 +13,7 @@ p {
     font-size:1.6em;
     border-radius:0px;
     border:0px solid #bbb;
-    transition: all 0.3s linear;
+    transition: all 0s linear;
 }
 /*
 .zone:hover {
