@@ -82,6 +82,7 @@ a:hover {
     color: #9b9b9c;
 }
 
+
 /***********************************************************************
  *  Cover
  **********************************************************************/
@@ -193,6 +194,14 @@ a:hover {
     z-index: 0;
 }
 
+.grid-wrapper5 {
+
+    text-align: center;
+    border-style: none;
+    position: relative;
+    z-index: 0;
+}
+
 .box {
     background-color: rgba(200, 200, 200, 0.00);
     padding: 3px;
@@ -201,6 +210,18 @@ a:hover {
 }
 
 .box > img {
+    width: 100%;
+}
+
+.box2 {
+    background-color: rgba(200, 200, 200, 0.00);
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-style: none;
+}
+
+.box2 > img {
     width: 100%;
 }
 
